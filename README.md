@@ -4,53 +4,55 @@ Hands-on Azure Free Tier lab focused on practical skills for **IT Support, Helpd
 
 ### Lab Overview
 - **Subscription**: Azure Free Tier
-- **Purpose**: Learn core Azure infrastructure, networking, and management skills
+- **Resource Group**: rg-homelab-prod
 - **Status**: In Progress
 
 ### Completed Tasks
 
-**✅ Resource Groups & Organization**
-- Created dedicated Resource Groups for different environments (Production, Test, Networking)
+**✅ Resource Groups**
+- Created dedicated Resource Group for the homelab
 
 **✅ Virtual Machines**
-- Created and deployed Windows Virtual Machine
+- Deployed Windows Virtual Machine
 - Configured RDP access
-- Managed VM sizing, shutdowns, and basic monitoring
 
-**✅ Azure Networking Basics**
-- Created Virtual Network (VNet)
-- Created Subnets
-- Configured Network Security Groups (NSG)
-- Tested connectivity to VM
+**✅ Azure Networking**
+- Explored Virtual Network (VNet) and Subnets
+- Reviewed Network Security Group (NSG) rules
 
-**✅ Storage**
+**✅ Storage Accounts**
 - Created Storage Account
-- Uploaded files to Blob Storage
-- Configured access permissions
+- Uploaded files to Blob Container
 
 **✅ Role-Based Access Control (RBAC)**
-- Assigned roles (Owner, Contributor, Reader) to test users
+- Assigned built-in roles (Contributor, Reader, etc.)
 
 ### Screenshots
+
 ![Resource Groups](./Screenshots/01-azure-resource-groups.png)  
-![Virtual Machine](./Screenshots/02-azure-vm-created.png)  
-![Virtual Network](./Screenshots/03-azure-vnet.png)  
-![Network Security Group](./Screenshots/04-azure-nsg.png)  
-![Storage Account](./Screenshots/05-azure-storage.png)
+![VM Creation](./Screenshots/02-azure-vm-creation.png)  
+![VM Overview](./Screenshots/03-azure-vm-overview.png)  
+![VM Networking](./Screenshots/04-azure-vm-networking.png)  
+![Virtual Network](./Screenshots/05-azure-vnet.png)  
+![Network Security Group](./Screenshots/06-azure-nsg.png)  
+![Storage Account](./Screenshots/07-azure-storage-account.png)  
+![Blob Container](./Screenshots/08-azure-blob-container.png)  
+![RBAC Role Assignment](./Screenshots/09-azure-rbac-role-assignment.png)  
+![RBAC Assignments](./Screenshots/10-azure-rbac-assignments.png)
 
 ### Skills Practiced
 - Azure Resource Management
 - Virtual Machine deployment and connectivity
 - Azure Networking fundamentals (VNet, Subnet, NSG)
-- Storage Account management
+- Storage Account and Blob Storage management
 - Role-Based Access Control (RBAC)
-- Basic troubleshooting in Azure
+- Basic Azure troubleshooting
 
 ### Next Tasks To Complete
-- Azure Backup & Snapshots
 - Azure Monitor & Alerts
-- Application Gateway / Load Balancer basics
-- Cost Management & Tagging
+- Cost Management & Budgets
+- Azure Backup / Snapshots
+- PowerShell / Azure CLI basics
 
 ---
 
