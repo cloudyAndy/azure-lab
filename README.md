@@ -29,7 +29,7 @@ Hands-on Azure Free Tier lab focused on practical skills for **IT Support, Helpd
 
 ### Screenshots
 
-![Resource Groups](./Screenshots/01-azure-resource-groups.png)  
+![Resource Groups](./Screenshots/01-azure-resource-groups - Copy.png)  
 ![VM Creation](./Screenshots/02-azure-vm-creation.png)  
 ![VM Overview](./Screenshots/03-azure-vm-overview.png)  
 ![VM Networking](./Screenshots/04-azure-vm-networking.png)  
@@ -38,7 +38,7 @@ Hands-on Azure Free Tier lab focused on practical skills for **IT Support, Helpd
 ![Storage Account](./Screenshots/07-azure-storage-account.png)  
 ![Blob Container](./Screenshots/08-azure-blob-container.png)  
 ![RBAC Role Assignment](./Screenshots/09-azure-rbac-role-assignment.png)  
-![RBAC Assignments](./Screenshots/10-azure-rbac-assignments.png)
+![RBAC Assignments](./Screenshots/10-azure-rbac-assignment.png)
 
 ### Skills Practiced
 - Azure Resource Management
