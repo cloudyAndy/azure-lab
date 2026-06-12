@@ -29,7 +29,7 @@ Hands-on Azure Free Tier lab focused on practical skills for **IT Support, Helpd
 
 ### Screenshots
 
-![Resource Groups](./Screenshots/01-azure-resource-groups - Copy.png)  
+![Resource Groups](./Screenshots/01-azure-resource-groups.png)  
 ![VM Creation](./Screenshots/02-azure-vm-creation.png)  
 ![VM Overview](./Screenshots/03-azure-vm-overview.png)  
 ![VM Networking](./Screenshots/04-azure-vm-networking.png)  
